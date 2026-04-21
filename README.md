@@ -32,10 +32,3 @@ Our High-Fidelity Web MVP showcases 5 real-time traps designed to catch automate
 
 ---
 
-## 🚀 How to Run the MVP Locally
-
-BOTGUARD is designed as a lightweight, zero-dependency Web MVP to prove our core concepts. 
-
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/your-username/botguard.git](https://github.com/your-username/botguard.git)
