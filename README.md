@@ -32,3 +32,7 @@ Our High-Fidelity Web MVP showcases 5 real-time traps designed to catch automate
 
 ---
 
+© CODE NINJAS 
+mailto:kevintennison1@gmail.com
+mailto:kruthimanjappa2006@gmail.com
+
